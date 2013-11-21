@@ -114,3 +114,5 @@ if __name__ == '__main__':
     weibo()
     #for r in fetch_earthquake():
     #    print r['lat'], r['lon'], r['place']
+
+    
