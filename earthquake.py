@@ -115,4 +115,4 @@ if __name__ == '__main__':
     #for r in fetch_earthquake():
     #    print r['lat'], r['lon'], r['place']
 
-    
+
